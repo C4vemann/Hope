@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Optiplex 5000",
+    "shortName": "5000",
+    "category": "tower",
+    "version":"1.11.0"
+  },
+  {
+    "name":"OptiPlex 5090",
+    "shortName": "5090",
+    "category": "tower",
+    "version":"1.17.0"
+  },
+  {
+    "name":"Precision 5820 Tower",
+    "shortName": "5820",
+    "category": "tower",
+    "version":"2.27.0"
+  },
+  {
+    "name":"Precision 7820 Tower",
+    "shortName": "7820",
+    "category": "tower",
+    "version":"2.31.0"
+  },
+  {
+    "name":"Precision 7670",
+    "shortName": "7670",
+    "category": "laptop",
+    "version":"1.11.0"
+  },
+  {
+    "name":"Latitude 5430",
+    "shortName": "5430",
+    "category": "laptop",
+    "version":"1.12.0"
+  },
+  {
+    "name":"Latitude 7330",
+    "shortName": "7330",
+    "category": "laptop",
+    "version":"1.13.0"
+  },
+  {
+    "name":"Latitude 7330 Rugged Extreme",
+    "shortName": "7330 Rugged",
+    "category": "laptop",
+    "version":"1.16.1"
+  },
+  {
+    "name":"Latitude 7424 Rugged Extreme",
+    "shortName": "7424 Rugged",
+    "category": "laptop",
+    "version":"1.23.0"
+  }
+]
